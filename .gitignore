@@ -10,12 +10,3 @@
 RAG/
 RAG/.venv
 
-# Ignore environment secrets
-.env
-*.env
-**/ .env
-node_modules/
-frontend/node_modules/
-.venv/
-*.env
-backend/.env
