@@ -1,0 +1,16 @@
+/.venv
+/code.py
+/code2.py
+/data
+/requirements.txt
+.env
+# Ignore all virtual environments everywhere
+.venv
+**/ .venv
+RAG/
+RAG/.venv
+
+# Ignore environment secrets
+.env
+*.env
+**/ .env

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+scikit-learn
+rank_bm25
+sentence-transformers
+langchain-community
+langchain-text-splitters
+requests
+groq
